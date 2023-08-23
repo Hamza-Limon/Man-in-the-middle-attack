@@ -1,5 +1,5 @@
 
-<img width="500" img height='380' alt="image" src="https://github.com/Hamza-Limon/Man-in-the-middle-attack/assets/140405710/69399011-f105-4124-ac5b-20dd47f6eaa3">
+<img width="500" img height='250' alt="image" src="https://github.com/Hamza-Limon/Man-in-the-middle-attack/assets/140405710/69399011-f105-4124-ac5b-20dd47f6eaa3">
 
 # MAN IN THE MIDDLE ATTACK (ORTADAKİ ADAM SALDIRISI )
 
